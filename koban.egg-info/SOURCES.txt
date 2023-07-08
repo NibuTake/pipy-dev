@@ -1,0 +1,8 @@
+README.md
+setup.py
+koban/__init__.py
+koban/main.py
+koban.egg-info/PKG-INFO
+koban.egg-info/SOURCES.txt
+koban.egg-info/dependency_links.txt
+koban.egg-info/top_level.txt

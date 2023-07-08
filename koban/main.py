@@ -1,0 +1,3 @@
+class Koban:
+    def fit(self):
+        ...

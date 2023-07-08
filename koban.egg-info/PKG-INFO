@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: koban
+Version: 1.0.1
+Summary: Testing
+Author: nibutake
+Author-email: 0815takeshi@gmail.com
+License: MIT
+Keywords: koban
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+
+# pipy-dev
+testing maintanability
+
+
